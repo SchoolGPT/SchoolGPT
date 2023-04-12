@@ -5,6 +5,8 @@ Used prompt: `What are the top 10 topics to teach a child thats 7 years old in s
 
 LLM: GPT4
 
+___
+
 1. Reading and Writing: Develop essential literacy skills by teaching children how to read and write, recognize letters and sounds, and practice proper grammar and punctuation.
 
 2. Mathematics: Introduce basic math concepts such as addition, subtraction, multiplication, and division, as well as concepts like shapes, patterns, and measurement.
