@@ -1,4 +1,5 @@
-## Curriculum 1st Grade 6-7 years old
+## Curriculum 1st 
+### Grade 6-7 years old
 
 Used prompt: `What are the top 10 topics to teach a child thats 7 years old in school?`
 
